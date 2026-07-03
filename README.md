@@ -2,27 +2,44 @@
 
 # Hi 👋, I'm Sabeeh Waheed
 
-### AI Engineer | Machine Learning Enthusiast | Flutter Developer | Future Researcher
+### Research-driven AI Engineer building modern systems that feel intelligent, fast, and useful
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning;Flutter+Full+Stack+Developer;Building+AI+for+Real-World+Problems;Future+MS+Researcher+%F0%9F%8E%93" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+RAG;Flutter+Full+Stack+Developer;Building+AI+for+Real-World+Problems;Future+MS+Researcher+%F0%9F%8E%93" />
+
+<p>
+	<img src="https://img.shields.io/badge/AI-Engineer-0EA5E9?style=for-the-badge&logo=openai&logoColor=white" />
+	<img src="https://img.shields.io/badge/ML-Research-111827?style=for-the-badge&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+	<img src="https://img.shields.io/badge/Innovation-First-7C3AED?style=for-the-badge&logo=sparkles&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
+## ✨ Snapshot
+
+<table>
+	<tr>
+		<td><b>🎓 Background</b><br/>BS Computer Science Graduate</td>
+		<td><b>🤖 Focus</b><br/>AI, ML, Deep Learning, Computer Vision, Data Science</td>
+	</tr>
+	<tr>
+		<td><b>📱 Product Work</b><br/>Flutter full stack development for scalable cross-platform apps</td>
+		<td><b>🧠 Style</b><br/>Research ideas turned into production-ready systems</td>
+	</tr>
+</table>
+
+> I build software that is not only functional, but visually polished, research-aware, and ready for real-world use.
+
 ## 🚀 About Me
 
-🎓 BS Computer Science Graduate
-
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision & Data Science.
-
-📱 Flutter Full Stack Developer building scalable cross-platform applications.
-
-🧠 I enjoy transforming research ideas into production-ready AI systems.
-
-🌍 Currently preparing for a fully funded Master's degree abroad specializing in Artificial Intelligence.
-
-💡 My goal is to build intelligent software that positively impacts healthcare, education, and society.
+- 🎓 BS Computer Science Graduate
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Data Science
+- 📱 Flutter Full Stack Developer building scalable cross-platform applications
+- 🧠 I enjoy turning research ideas into production-ready AI systems
+- 🌍 Currently preparing for a fully funded Master's degree abroad specializing in Artificial Intelligence
+- 💡 My goal is to build intelligent software that positively impacts healthcare, education, and society
 
 ---
 
@@ -60,7 +77,7 @@
 
 ### Tools
 
-Git • GitHub • VS Code • Android Studio • Google Colab • Jupyter Notebook • Linux
+Git • GitHub • VS Code • Android Studio • Google Colab • Jupyter Notebook • Linux • Figma
 
 ---
 
@@ -123,33 +140,33 @@ An intelligent recommendation engine combining machine learning with recommendat
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=sabstar71&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&custom_title=Sabeeh%20Waheed%20GitHub%20Stats)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sabstar71&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sabstar71&layout=compact&include_all_commits=true&count_private=true&theme=tokyonight&custom_title=Top%20Languages)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=sabstar71&theme=onedark)
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sabstar71&theme=react-dark&area=true&hide_border=true&custom_title=Contribution%20Activity)
 
 ---
 
 ## 🌎 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sabeeh-waheed-865a25179/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefoxbrowser)](YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sabeehwd1786@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+_Portfolio coming soon._
 
 ---
 
