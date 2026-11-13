@@ -19,7 +19,7 @@
 
 <br />
 
-## The short version
+## About
 
 I'm a Computer Science graduate who enjoys the entire engineering process: taking an idea, experimenting with models, building the application around it, and making it useful for real people.
 
