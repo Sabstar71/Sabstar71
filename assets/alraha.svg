@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="258" viewBox="0 0 600 258" role="img" aria-label="ALRAHA veterinary care platform">
+<defs>
+ <linearGradient id="base" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#081D29"/><stop offset="1" stop-color="#102439"/></linearGradient>
+ <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#71E9D6"/><stop offset="1" stop-color="#619DFF"/></linearGradient>
+ <radialGradient id="spot"><stop stop-color="#619DFF" stop-opacity=".22"/><stop offset="1" stop-color="#619DFF" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="21" height="21" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#91A6CF" fill-opacity=".1"/></pattern>
+</defs>
+<rect width="600" height="258" rx="20" fill="url(#base)"/><rect width="600" height="258" rx="20" fill="url(#dots)"/>
+<circle cx="490" cy="124" r="171" fill="url(#spot)"/>
+<path d="M29 230H570" stroke="url(#grad)" stroke-opacity=".32"/>
+<text x="34" y="45" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="13" letter-spacing="2.4" fill="#71E9D6">PRODUCT ENGINEERING</text>
+<text x="34" y="112" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" letter-spacing="-1.2" fill="#F2F7FE">ALRAHA</text>
+<text x="35" y="151" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#B0C0D4">Animal Care Platform</text>
+<g><rect x="405" y="58" width="149" height="147" rx="13" fill="#0A2030" stroke="#35D6C8" stroke-opacity=".5"/>
+<rect x="405" y="58" width="149" height="24" rx="12" fill="#2D5263"/><rect x="405" y="70" width="149" height="12" fill="#2D5263"/>
+<circle cx="422" cy="70" r="3" fill="#B4F5ED"/><circle cx="433" cy="70" r="3" fill="#B4F5ED" opacity=".5"/><circle cx="444" cy="70" r="3" fill="#B4F5ED" opacity=".3"/>
+<g transform="translate(467 132)"><circle cx="-22" cy="-20" r="9" fill="#6DEBD6"/><circle cx="0" cy="-29" r="9" fill="#6DEBD6"/><circle cx="23" cy="-19" r="9" fill="#6DEBD6"/><circle cx="35" cy="2" r="8" fill="#6DEBD6"/><path d="M-15 10Q0 -8 15 10Q25 29 8 38Q0 42 -7 38Q-27 31 -15 10Z" fill="#7EF0DE"/></g>
+<rect x="423" y="181" width="115" height="8" rx="4" fill="#244956"/></g>
+<text x="36" y="215" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1" fill="#8FA9BE">NEXT.JS    ·    FIREBASE    ·    CLOUDFLARE</text>
+</svg>

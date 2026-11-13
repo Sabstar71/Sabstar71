@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="346" viewBox="0 0 1200 346" role="img" aria-label="Sabeeh Waheed, AI and software engineering">
+ <defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0D101E"/><stop offset="0.53" stop-color="#090E17"/><stop offset="1" stop-color="#11102A"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#8173FF"/><stop offset="0.52" stop-color="#16D5E5"/><stop offset="1" stop-color="#9D68FF"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#21CDE6" stop-opacity=".24"/><stop offset="1" stop-color="#21CDE6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8B9CB9" stroke-opacity=".07"/></pattern>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5"/></filter>
+ </defs>
+ <rect width="1200" height="346" rx="23" fill="url(#bg)"/>
+ <rect width="1200" height="346" rx="23" fill="url(#grid)"/>
+ <circle cx="923" cy="170" r="258" fill="url(#aura)"/>
+ <path d="M0 327H1200" stroke="url(#accent)" stroke-opacity=".8" stroke-width="2"/>
+ <rect x="64" y="48" width="10" height="10" rx="3" fill="#25DACC"/>
+ <text x="88" y="58" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#C2CDD9">DEVELOPER PROFILE</text>
+ <text x="65" y="160" font-family="Arial, Helvetica, sans-serif" font-size="83" font-weight="900" letter-spacing="-2" fill="#F2F6FC">SABEEH</text>
+ <text x="65" y="253" font-family="Arial, Helvetica, sans-serif" font-size="83" font-weight="900" letter-spacing="-2" fill="url(#accent)">WAHEED.</text>
+ <text x="67" y="297" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2" fill="#B5C2D5">AI / ML  ·  FULL-STACK  ·  COMPUTER VISION</text>
+ <g transform="translate(937 171)">
+  <circle r="134" fill="none" stroke="#667FA6" stroke-opacity=".21" stroke-width="1"/>
+  <circle r="102" fill="none" stroke="#667FA6" stroke-opacity=".3" stroke-width="1" stroke-dasharray="4 8"/>
+  <circle r="72" fill="none" stroke="#29D5E1" stroke-opacity=".4" stroke-width="1.5"/>
+  <circle r="46" fill="#0D1C2B" stroke="#35D6E7" stroke-opacity=".63" stroke-width="1.3"/>
+  <path d="M-17 -3L0 -25L18 -6L9 24L-16 15Z" fill="none" stroke="#90DAFC" stroke-width="2.2" stroke-linejoin="round"/>
+  <circle cx="0" cy="-25" r="4.5" fill="#8978FF"/><circle cx="18" cy="-6" r="4.5" fill="#2DD8DF"/>
+  <circle cx="9" cy="24" r="4.5" fill="#8978FF"/><circle cx="-16" cy="15" r="4.5" fill="#2DD8DF"/><circle cx="-17" cy="-3" r="4.5" fill="#D8F9FF"/>
+  <path d="M-72 0H-122M72 0H122M0 -72V-123M0 72V123" stroke="#8192BD" stroke-opacity=".25"/>
+  <circle cx="-94" cy="-79" r="5" fill="#35D6E7"/><circle cx="98" cy="-62" r="5" fill="#A38DFF"/><circle cx="-57" cy="110" r="5" fill="#A38DFF"/><circle cx="115" cy="65" r="5" fill="#35D6E7"/>
+  <path d="M-94 -79L-35 -43M98 -62L44 -35M-57 110L-29 55M115 65L52 31" fill="none" stroke="#5FD4E4" stroke-opacity=".48" stroke-width="1.3"/>
+ </g>
+ <text x="1098" y="49" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2" fill="#869CB6">01 / ENGINEERING</text>
+</svg>

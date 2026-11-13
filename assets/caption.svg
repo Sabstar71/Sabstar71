@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="258" viewBox="0 0 600 258" role="img" aria-label="Neural image caption generation project">
+<defs>
+ <linearGradient id="base" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#101B33"/><stop offset="1" stop-color="#16152E"/></linearGradient>
+ <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#5DCDFF"/><stop offset="1" stop-color="#A89BFF"/></linearGradient>
+ <radialGradient id="spot"><stop stop-color="#A89BFF" stop-opacity=".22"/><stop offset="1" stop-color="#A89BFF" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="21" height="21" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#91A6CF" fill-opacity=".1"/></pattern>
+</defs>
+<rect width="600" height="258" rx="20" fill="url(#base)"/><rect width="600" height="258" rx="20" fill="url(#dots)"/>
+<circle cx="490" cy="124" r="171" fill="url(#spot)"/>
+<path d="M29 230H570" stroke="url(#grad)" stroke-opacity=".32"/>
+<text x="34" y="45" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="13" letter-spacing="2.4" fill="#5DCDFF">DEEP LEARNING</text>
+<text x="34" y="112" font-family="Arial, Helvetica, sans-serif" font-size="39" font-weight="800" letter-spacing="-1.2" fill="#F2F7FE">Image Captioning</text>
+<text x="35" y="151" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#B0C0D4">Encoder-decoder pipeline</text>
+<g><rect x="398" y="65" width="159" height="131" rx="12" fill="#12253C" stroke="#63B8F4" stroke-opacity=".5"/>
+<rect x="411" y="78" width="133" height="78" rx="6" fill="#263D58"/>
+<circle cx="502" cy="101" r="11" fill="#FFE0A3"/><path d="M414 149L454 109L479 136L498 123L538 152" fill="#58ACB3" stroke="#9FDDED" stroke-width="2" stroke-linejoin="round"/>
+<rect x="411" y="167" width="95" height="6" rx="3" fill="#53D4E1"/><rect x="411" y="178" width="72" height="5" rx="3" fill="#61778D"/></g>
+<text x="36" y="215" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1" fill="#8FA9BE">RESNET-50    ·    LSTM    ·    FLASK</text>
+</svg>

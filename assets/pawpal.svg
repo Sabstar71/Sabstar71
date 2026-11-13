@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="258" viewBox="0 0 600 258" role="img" aria-label="Pet adoption and recommendation prototype">
+<defs>
+ <linearGradient id="base" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#161333"/><stop offset="1" stop-color="#17172D"/></linearGradient>
+ <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#AC93FF"/><stop offset="1" stop-color="#59CFFF"/></linearGradient>
+ <radialGradient id="spot"><stop stop-color="#59CFFF" stop-opacity=".22"/><stop offset="1" stop-color="#59CFFF" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="21" height="21" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#91A6CF" fill-opacity=".1"/></pattern>
+</defs>
+<rect width="600" height="258" rx="20" fill="url(#base)"/><rect width="600" height="258" rx="20" fill="url(#dots)"/>
+<circle cx="490" cy="124" r="171" fill="url(#spot)"/>
+<path d="M29 230H570" stroke="url(#grad)" stroke-opacity=".32"/>
+<text x="34" y="45" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="13" letter-spacing="2.4" fill="#AC93FF">RECOMMENDER SYSTEMS</text>
+<text x="34" y="112" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="800" letter-spacing="-1.2" fill="#F2F7FE">PawPal</text>
+<text x="35" y="151" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#B0C0D4">Pet adoption workflows</text>
+<g><g fill="none" stroke="#9D8AFB" stroke-width="1.4" stroke-opacity=".74"><path d="M398 89L465 116L524 82L543 154L476 173L423 158Z"/><path d="M465 116L476 173M465 116L423 158M465 116L543 154"/></g>
+<circle cx="398" cy="89" r="10" fill="#211E46" stroke="#AFA2FE" stroke-width="3"/><circle cx="465" cy="116" r="20" fill="#272455" stroke="#B7AEFF" stroke-width="3"/>
+<path d="M455 113L463 122L478 103" stroke="#DCD8FF" stroke-width="3" fill="none" stroke-linecap="round"/>
+<circle cx="524" cy="82" r="10" fill="#987AFF"/><circle cx="543" cy="154" r="10" fill="#58CAFF"/><circle cx="476" cy="173" r="10" fill="#987AFF"/><circle cx="423" cy="158" r="10" fill="#58CAFF"/></g>
+<text x="36" y="215" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1" fill="#8FA9BE">FLUTTER    ·    RECOMMENDATIONS</text>
+</svg>
